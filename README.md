@@ -1,1 +1,1 @@
-[Website](https://jinnbo.github.io/devportfolio/)
+[Website](https://jimmy-hui.netlify.app/)
