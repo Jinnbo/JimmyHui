@@ -1,3 +1,1 @@
-[Website](https://jinnbo.github.io/devportfolio/)
-
-Template from https://github.com/RyanFitzgerald/devportfolio 
+[Website](https://jimmy-hui.netlify.app/)
